@@ -1,4 +1,4 @@
-# 📘 Secure Enterprise College Network
+# 📘 Secure Network
 ## CCNA Cisco Packet Tracer Project
 
 ![Network Topology](network_topology.png)
